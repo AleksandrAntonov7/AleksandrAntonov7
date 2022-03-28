@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m currently learning at Yandex.Practicum for Data Analyst and also I'm looking for a job as Data Analyst.
 
-![](https://komarev.com/ghpvc/?username=AleksandrAntonov7&color=green)
+![](https://komarev.com/ghpvc/?username=AleksandrAntonov7)
 
 [instagram]: https://www.instagram.com/antonov3368/
 
