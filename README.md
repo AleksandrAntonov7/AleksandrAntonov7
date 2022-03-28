@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m currently learning at Yandex.Practicum for Data Analyst and also I'm looking for a job as Data Analyst.
 
-**Python / Pandas /SQL**
+**Python / Pandas / SQL**
 
 ![](https://komarev.com/ghpvc/?username=AleksandrAntonov7)
 
