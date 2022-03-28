@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=AleksandrAntonov7)
 
+**Ключевые навыки: Python / Pandas / SQL / Jupyter Notebook**
+
 В настоящий момент доступны для просмотра следующие проекты:
 | Проект | Описание | Используемые библиотеки |
 | :-------------------- | :--------------------- |:---------------------------|
@@ -11,11 +13,11 @@
 
 **[Сертификаты о пройденном обучении](https://github.com/AleksandrAntonov7/Certificates#certificates-of-completion-of-training)** 
 
-**Ключевые навыки: Python / Pandas / SQL / Jupyter Notebook**
+
 
 ** **
 
-В случае возникновения вопросов связывайтесь со мной по email. Буду рад ответить.
+В случае возникновения вопросов связывайтесь со мной по email.
 
 
 <!--
