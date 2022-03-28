@@ -1,12 +1,14 @@
 ### Hi there 👋
 I’m currently learning at Yandex.Practicum for Data Analyst and also I'm looking for a job as Data Analyst.
 
+**Python     Pandas     SQL**
+
 ![](https://komarev.com/ghpvc/?username=AleksandrAntonov7)
 
-### Буду выкладывать свои проекты в репозитотории.
+### Буду выкладывать свои проекты на github.
 
 В настоящий момент доступны для просмотра следующие проекты:
-- Сборный проект
+- Сборный проект №1 (Project_1_Game-Developers-analysis)
 - Анали
 
 
