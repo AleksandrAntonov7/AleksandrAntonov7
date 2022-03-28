@@ -3,8 +3,10 @@ I’m currently learning at Yandex.Practicum for Data Analyst and also I'm looki
 
 ![](https://komarev.com/ghpvc/?username=AleksandrAntonov7)
 
-[instagram]: https://www.instagram.com/antonov3368/
-
+</div>
+<div class="social instagram">
+    <a href="https://www.instagram.com/antonov3368/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+</div>
 
 <!--
 **AleksandrAntonov7/AleksandrAntonov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
