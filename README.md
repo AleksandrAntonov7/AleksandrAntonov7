@@ -3,6 +3,15 @@ I’m currently learning at Yandex.Practicum for Data Analyst and also I'm looki
 
 ![](https://komarev.com/ghpvc/?username=AleksandrAntonov7)
 
+### Буду выкладывать свои проекты в репозитотории.
+
+В настоящий момент доступны для просмотра следующие проекты:
+- Сборный проект
+- Анали
+
+
+
+
 <!--
 **AleksandrAntonov7/AleksandrAntonov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
