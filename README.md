@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AleksandrAntonov7&color=brightgreen)
 
-**Ключевые навыки: `Python` / `Pandas` / `SQL` / `Jupyter Notebook`**
+**Ключевые навыки: `Python` / `Pandas` / `SQL` / `Jupyter Notebook` / `Tableau`**
 
 
 **[Сертификаты о пройденном обучении](https://github.com/AleksandrAntonov7/Certificates#certificates-of-completion-of-training)** 
